@@ -92,8 +92,8 @@ import { useState, useRef, useEffect } from 'react';
   ];
   const SOCIAL=[
     {id:'1', label:'GitHub', icon:'🐈‍⬛', url:'https://github.com/pramaspx'},
-    {id:'2', label:'Instagram', icon:'📷', url:'https://www.youtube.com/channel/UCfkF13xszSrn4D0-aTpiAag'},
-    {id:'3', label:'Youtube', icon:'▶️', url:'https://www.instagram.com/pra_no_ma/'}
+    {id:'2', label:'Instagram', icon:'📷', url:'https://www.instagram.com/pra_no_ma/'},
+    {id:'3', label:'Youtube', icon:'▶️', url:'https://www.youtube.com/channel/UCfkF13xszSrn4D0-aTpiAag'}
   ]
 // ============================================
 //  SUB-COMPONENTS
