@@ -14,6 +14,7 @@ Setelah menyelesaikan praktikum ini, mahasiswa diharapkan mampu:
 npm install @react-navigation/native
 Konfirmasi Bukti
 ![alt text](Mig1.png)
+
 7. # 2. Install dependensi pendukung (wajib untuk Expo)
 npx expo install react-native-screens react-native-safe-area-context react-native-gesture-handler react-native-reanimated
 Konfirmasi bukti
@@ -25,15 +26,20 @@ Langkah 1 : Instalasi Pustaka Stack
 Jalankan perintah berikut di terminal:
 npm install @react-navigation/native-stack
 ![alt text](Mig3.png)
+
 Langkah 2 :
 file Login.js
 ![alt text](Mig4.png)
+
 file Signup.js
 ![alt text](Mig5.png)
+
 Langkah 3 : Uji coba klik tombol untuk berpindah maju dan mundur antar layar
 ![alt text](BackandForth.gif)
+
 Langkah 4: konfigurasi app.js
 ![alt text](Mig6.png)
+
 
 ## PRAKTIKUM 2 : Bottom Tab Navigation
 
@@ -43,6 +49,7 @@ Langkah 1 : Instalasi Pustaka Bottom Tabs
 Langkah 2 : Membuat Layar Baru
 file HomeScreen.js
 ![alt text](Mig8.png)
+
 file ProfileScreen.js
 ![alt text](Mig9.png)
 
@@ -56,4 +63,5 @@ npm install @react-navigation/drawer
 
 Langkah 2 :Konfigurasi drawer di App.js
 ![alt text](Mig12.png)
+
 ![alt text](Anotherone.gif)
