@@ -1,5 +1,7 @@
 import { useState, useRef, useEffect } from 'react';
-  import {
+import Login from './Login';
+import styles from './globalCSS';
+import {
   View,
   Text,
   Image,
@@ -20,7 +22,7 @@ import { useState, useRef, useEffect } from 'react';
   Platform,
   Animated,
   KeyboardAvoidingView,
-  } from 'react-native';
+} from 'react-native';
   const PROFILE= {
     name: 'Ahmad Miftah Hadi Pramana Arsjad',
     title: 'Full-Stack Developer',
@@ -125,7 +127,7 @@ const TimelineCard = ({ item, onPress }) => (
 // ============================================
 //  MAIN APP
 // ============================================
-export default function App() {
+export default function App(navigation) {
   // — STATE ————————————————————————————————
   const [openToWork, setOpenToWork] = useState(true);
   const [selectedItem, setSelectedItem] = useState(null);
