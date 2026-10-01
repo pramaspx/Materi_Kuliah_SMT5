@@ -48,13 +48,18 @@ Langkah 1 : Instalasi Pustaka Bottom Tabs
 
 Langkah 2 : Membuat Layar Baru
 file HomeScreen.js
+
 ![alt text](Mig8.png)
 
 file ProfileScreen.js
+
 ![alt text](Mig9.png)
 
 Langkah 3 : Konfigurasi Tab di App.js
+
 ![alt text](Mig10.png)
+
+![alt text](BigMisser.gif)
 
 ### Praktikum 3
 ### Langkah 1: Instalasi Pustaka Drawer
